@@ -1,8 +1,9 @@
-#CS571: Artificial Intelligence 
+# CS571: Artificial Intelligence 
 
-##Assignment 3: Naive Bayes 
+### Assignment 3: Naive Bayes 
 
 Due: Friday, March 11, 11:59pm 
+
 
 In this assignment, you will implement the Naive Bayes classification method using Python.
 
