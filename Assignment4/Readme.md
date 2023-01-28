@@ -1,5 +1,6 @@
-# Assignment 4
+# CS571: Artificial Intelligence
 
-CS 571 AI - Prof Gutta - Spring 2022
 
-Decision Tree Classification for Iris Dataset
+## Assignment 4: Decision Tree Classification for Iris Dataset
+
+
