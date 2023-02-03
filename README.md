@@ -33,3 +33,9 @@ CS 571 Artificial Intelligence course at CSUSM
   - Decision Tree Classifier
   - Validation dataset
   
+## Language and Packages Used on Assignments
+- Python 3
+- Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+
+## Environment
+- Google Colab
