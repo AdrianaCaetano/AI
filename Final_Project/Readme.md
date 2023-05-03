@@ -32,6 +32,9 @@ It is a short dataset with 13 columns and 614 rows.
 
 Loan ID was dropped since this feature was not relevant for the classification problem.
 
+Some fields had missing values, as you can see in the graph.
+![Missing Values graph](images/missing_values.png)
+
 The missing values were first categorized as missing completely at random (MCAR) or Missing not at random (MNAR). The fields with missing values which were unrelated to any other field were considered MCAR and 2 fields(dependents and credit history) were considered MNAR since we assumed that the missing values in this field are related to the reason it's missing, also known as nonignorable nonresponse.
 
 The missing values were filled up using the below criteria:
